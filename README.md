@@ -1,4 +1,6 @@
-# My-D-s-P-s-L-s-Journeys
+# My_D-s_P-s_L-s_Journeys
 My Daily's Programming's Learning's Journeys.
 
-I am following through the guide provided by codecademy by the name of Introduction to Open Source.
+AIM is to Keeping my daily's notes here too along with [My Hashnode Blog](https://raghuu87.hashnode.dev/  "Raghuu''s Blog").
+
+Happy Learning !) 
